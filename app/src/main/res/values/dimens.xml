@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Dimens for main photo strings-->
+    <dimen name="photo_text_padding">12dp</dimen>
+
+    <!-- Dimens for main menu categories -->
+    <dimen name="menu_item_height">60dp</dimen>
+    <dimen name="text_padding">16dp</dimen>
+    <dimen name="view_height">2dp</dimen>
+
+
+
+</resources>

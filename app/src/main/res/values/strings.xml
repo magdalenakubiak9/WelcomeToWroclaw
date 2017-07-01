@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Welcome To Wroclaw</string>
+
+    <!-- Main screen photo strings -->
+    <string name="photo_text_big">What do you want to do?</string>
+    <!-- <string name="photo_text_small">What do you want to do?</string> -->
+
+    <!-- Main activity menu strings-->
+    <string name="sights_string">Sights</string>
+    <string name="museums_string">Museums</string>
+    <string name="restaurants_string">Restaurants</string>
+    <string name="events_string">Events</string>
+
+    <!--Sights attraction's names-->
+    <string name="sights_fountain">Wroclaw Fountain</string>
+    <string name="sights_town_hall">Wroclaw Town Hall</string>
+    <string name="sights_cathedral">Cathedral</string>
+    <string name="sights_ostrow">Ostrow Tumski</string>
+    <string name="sights_sky_tower">Sky Tower</string>
+    <string name="sights_market_square">Market Square</string>
+    <string name="sights_japanese_garden">Japanese Garden</string>
+    <string name="sights_zoo">Zoo</string>
+
+    <!--Sights attraction's descriptions-->
+    <string name="sights_fountain_description">Huge water fountain there are seasonal shows featuring synchronized water, light and music</string>
+    <string name="sights_town_hall_description">The Gothic town hall built from the 13th century is one of the main landmarks of the city</string>
+    <string name="sights_cathedral_description">13th-century place of Catholic worship, dedicated to St John the Baptist, reconstructed after WWII</string>
+    <string name="sights_ostrow_description"> The oldest part of the city. It was formerly an island between branches of the Oder River</string>
+    <string name="sights_sky_tower_description">The highest building in the city with viewpoint at the top</string>
+    <string name="sights_market_square_description">A medieval market square in the city center, now the heart of a pedestrian zone</string>
+    <string name="sights_japanese_garden_description">Japanese-style garden with a tea pavilion, carp-filled pond and an array of plants and flowers</string>
+    <string name="sights_zoo_description">The oldest zoo in Poland keeping thousands of animals, with focus on conserving endangered species</string>
+
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">  #607d8b</color>
+    <color name="colorPrimaryDark">#455a64</color>
+    <color name="colorAccent">#263238</color>
+
+
+    <!-- Color for main screen menu strings -->
+    <color name="category_menu_color">#FFFFFF</color>
+
+    <!-- Main actovity background color -->
+    <color name="background_color">#cfd8dc</color>
+</resources>
