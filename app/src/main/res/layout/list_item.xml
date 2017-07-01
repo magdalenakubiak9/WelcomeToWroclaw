@@ -6,26 +6,24 @@
     android:layout_height="wrap_content">
 
     <ImageView
-        android:layout_width="120dp"
-        android:layout_height="120dp"
-        android:id="@+id/attraction_image"/>
+        android:id="@+id/attraction_image"
+        android:src="@drawable/events_bazaar"
+        style="@style/ListItemImageStyle"/>
 
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
+        android:layout_marginRight="@dimen/list_item_image_margin"
         android:orientation="vertical">
         <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textStyle="bold"
-            android:text="Attraction' name"
-            android:id="@+id/attraction_name"/>
+            android:text="@string/events_bazaar"
+            android:id="@+id/attraction_name"
+            style="@style/ListItemTextStyle"/>
         <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Attraction' description short short short short"
-            android:id="@+id/attraction_description"/>
+            android:text="@string/events_bazaar_description"
+            android:id="@+id/attraction_description"
+            style="@style/ListItemDescriptionTextStyle"/>
     </LinearLayout>
 
 </LinearLayout>

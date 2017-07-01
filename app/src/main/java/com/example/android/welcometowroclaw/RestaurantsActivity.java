@@ -15,14 +15,14 @@ public class RestaurantsActivity extends AppCompatActivity {
 
         // Create a list of sights
         ArrayList<Attraction> attractions = new ArrayList<>();
-        attractions.add(new Attraction(R.string.sights_cathedral, R.string.sights_cathedral_description, R.drawable.sights_catherdal));
-        attractions.add(new Attraction(R.string.sights_fountain, R.string.sights_fountain_description, R.drawable.sights_fountain));
-        attractions.add(new Attraction(R.string.sights_japanese_garden, R.string.sights_japanese_garden_description, R.drawable.sights_japanese_garden));
-        attractions.add(new Attraction(R.string.sights_market_square, R.string.sights_market_square_description, R.drawable.sights_market_square));
-        attractions.add(new Attraction(R.string.sights_ostrow, R.string.sights_ostrow_description, R.drawable.sights_ostrow));
-        attractions.add(new Attraction(R.string.sights_sky_tower, R.string.sights_sky_tower_description, R.drawable.sights_sky_tower));
-        attractions.add(new Attraction(R.string.sights_town_hall, R.string.sights_town_hall_description, R.drawable.sights_town_hall));
-        attractions.add(new Attraction(R.string.sights_zoo, R.string.sights_zoo_description, R.drawable.sights_zoo));
+        attractions.add(new Attraction(R.string.restaurants_bernard, R.string.restaurants_bernard_description, R.drawable.restaurants_bernard));
+        attractions.add(new Attraction(R.string.restaurants_maddalena, R.string.restaurants_maddalena_description, R.drawable.restaurants_maddalena));
+        attractions.add(new Attraction(R.string.restaurants_mama_manousch, R.string.restaurants_mama_manousch_description, R.drawable.restaurants_mama_manousch));
+        attractions.add(new Attraction(R.string.restaurants_osiem_misek, R.string.restaurants_osiem_misek_description, R.drawable.restaurants_osiem_misek));
+        attractions.add(new Attraction(R.string.restaurants_pasibus, R.string.restaurants_pasibus_description, R.drawable.restaurants_pasibus));
+        attractions.add(new Attraction(R.string.restaurants_piec_naszewskiej, R.string.restaurants_piec_naszewskiej_description, R.drawable.restaurants_piec_naszewskiej));
+        attractions.add(new Attraction(R.string.restaurants_stol, R.string.restaurants_stol_description, R.drawable.restaurants_stol));
+        attractions.add(new Attraction(R.string.restaurants_whiskey, R.string.restaurants_whiskey_description, R.drawable.restaurants_whiskey));
 
         // Create an {@link AttractionAdapter}, whose data source is a list of {@link Attraction}s.
         AttractionAdapter adapter = new AttractionAdapter(this, attractions);

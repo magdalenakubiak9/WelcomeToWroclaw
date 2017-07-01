@@ -11,7 +11,7 @@
     <string name="restaurants_string">Restaurants</string>
     <string name="events_string">Events</string>
 
-    <!--Sights attraction's names-->
+    <!--Sights  names-->
     <string name="sights_fountain">Wroclaw Fountain</string>
     <string name="sights_town_hall">Wroclaw Town Hall</string>
     <string name="sights_cathedral">Cathedral</string>
@@ -21,7 +21,7 @@
     <string name="sights_japanese_garden">Japanese Garden</string>
     <string name="sights_zoo">Zoo</string>
 
-    <!--Sights attraction's descriptions-->
+    <!--Sights  descriptions-->
     <string name="sights_fountain_description">Huge water fountain there are seasonal shows featuring synchronized water, light and music</string>
     <string name="sights_town_hall_description">The Gothic town hall built from the 13th century is one of the main landmarks of the city</string>
     <string name="sights_cathedral_description">13th-century place of Catholic worship, dedicated to St John the Baptist, reconstructed after WWII</string>
@@ -31,4 +31,60 @@
     <string name="sights_japanese_garden_description">Japanese-style garden with a tea pavilion, carp-filled pond and an array of plants and flowers</string>
     <string name="sights_zoo_description">The oldest zoo in Poland keeping thousands of animals, with focus on conserving endangered species</string>
 
+
+    <!--Museums  names-->
+    <string name="museums_panorama">Raclawice Panorama</string>
+    <string name="museums_hydropolis">Hydropolis</string>
+    <string name="museums_architecture">Museum of Architecture</string>
+    <string name="museums_national_museum">Wroclaw National Museum</string>
+    <string name="museums_city_museum">City Museum of Wroclaw</string>
+    <string name="museums_humanitarium">Humanitarium</string>
+    <string name="museums_university">University of Wroclaw Museum</string>
+    <string name="museums_topacz">Topacz Automobile Museum</string>
+
+    <!--Museums descriptions-->
+    <string name="museums_panorama_description">A monumental cycloramic painting depicting the Battle of Raclawice, during the Kosciuszko Uprising</string>
+    <string name="museums_hydropolis_description">Center of knowledge about water, where diverse multimedia technologies show water from various fascinating perspectives</string>
+    <string name="museums_architecture_description">The only architecture museum in Poland, founded in 1965. Based in former medieval monastery housing</string>
+    <string name="museums_national_museum_description">Established in 1947, holds one of the largest collections of contemporary art in the country</string>
+    <string name="museums_city_museum_description">Wrocław history exhibits housed in the former palace, with recreated royal apartments and a garden</string>
+    <string name="museums_humanitarium_description">A science center offering an interactive exhibition with multimedia elements dedicated to the human and environment</string>
+    <string name="museums_university_description">Museum in the main university building, the Baroque edifice of Krzysztof Tausch, located on the banks of the Oder River</string>
+    <string name="museums_topacz_description">Old cars and motorcycles collection located in castle Topacz for automotive lovers</string>
+
+    <!--Restaurants names-->
+    <string name="restaurants_stol">Culinary Studio Stół na Szwedzkiej</string>
+    <string name="restaurants_piec_naszewskiej">Piec na Szewskiej</string>
+    <string name="restaurants_bernard">Bernard Pub-Restaurant</string>
+    <string name="restaurants_mama_manousch">Mama Manousch</string>
+    <string name="restaurants_pasibus">Pasibus</string>
+    <string name="restaurants_osiem_misek">Osiem Misek</string>
+    <string name="restaurants_whiskey">Whiskey in the Jar</string>
+    <string name="restaurants_maddalena">La Maddalena</string>
+
+    <!--Restaurants descriptions-->
+    <string name="restaurants_stol_description">Cozy place, very good service and talk with the chef. Fantastic sense of mixing tastes and flavours</string>
+    <string name="restaurants_piec_naszewskiej_description">You can eat great Italian Pizza there with a good choice of ingredients</string>
+    <string name="restaurants_bernard_description">Located in the Market Square. Polish and Czech menu, offering traditional dishes and excellent local beers</string>
+    <string name="restaurants_mama_manousch_description">Located in the city center, a modern restaurant with a quiet ambient. Modern reinterpretation of traditional dishes</string>
+    <string name="restaurants_pasibus_description">Famous burger place on the map of the city. It started from a small foodtrack.</string>
+    <string name="restaurants_osiem_misek_description">In Osiem Misek one can choose from a couple of dishes, including spring rolls, pad thai and steamed buns. Some yerba mate, tea and "healthy" lemonades to it</string>
+    <string name="restaurants_whiskey_description">A hard rock cafe style bar and restaurant in the main square. The food is mainly steak and burgers and the drinks are mostly Jack Daniels based whisky themed</string>
+    <string name="restaurants_maddalena_description">The menu is limited and the food freshly prepared from high quality ingredients. The interior is charming, with moody lights and intimate atmosphere</string>
+
+    <!--Events names-->
+    <string name="events_bazaar">Wrocław Bazaar of Gourmets </string>
+    <string name="events_new_horizons">T-Mobile New Horizons International Film Festival</string>
+    <string name="events_capitol">Chill-out Zone at the Capitol</string>
+    <string name="events_jazztopad">Jazztopad</string>
+    <string name="events_wratislavia_cantans">International Wratislavia Cantans Festival</string>
+    <string name="events_brave_festival">Brave Festival</string>
+
+    <!--Events descriptions-->
+    <string name="events_bazaar_description">Every Sunday and Wednesday in Browar Mieszczański. It is a place where you can fill your basket with delicious and healthy products, from traditional ones to those that are rare</string>
+    <string name="events_new_horizons_description">It is an international film festival held annually in July in Wrocław. It has been organised since 2001. It is one of the biggest and most popular film festivals in Poland</string>
+    <string name="events_capitol_description">A place where you can have a relaxing session in a deckchair on a green terrace to wind down in a leafy setting to the sounds of specially arranged music from the Capitol own stage productions</string>
+    <string name="events_jazztopad_description">It is a globally recognised jazz event which offers première performances commissioned specifically by the festival and numerous projects that help emerging jazz artists show their skills at larger audiences</string>
+    <string name="events_wratislavia_cantans_description">One of the most important classical music festival in Europe. Years ago, the festival was the only opportunity to meet the world-famous artists behind the Iron Curtain</string>
+    <string name="events_brave_festival_description">Artists from all over the world are invited to present their traditions. The festival is an opportunity for attendees to speak about where they come from, their values, their tradition and their spirituality</string>
 </resources>

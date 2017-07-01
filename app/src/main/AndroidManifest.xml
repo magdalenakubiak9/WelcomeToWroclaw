@@ -16,6 +16,18 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".SightsActivity"
+            android:label="@string/sights_string" />
+        <activity
+            android:name=".MuseumsActivity"
+            android:label="@string/museums_string" />
+        <activity
+            android:name=".RestaurantsActivity"
+            android:label="@string/restaurants_string" />
+        <activity
+            android:name=".EventsActivity"
+            android:label="@string/events_string" />
     </application>
 
 </manifest>

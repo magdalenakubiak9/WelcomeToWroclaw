@@ -16,7 +16,6 @@ public class Attraction {
     /** Image resource ID for the photo of the attraction */
     private int mImageResourceId;
 
-
     /**
      * Create a new Attraction object.
      *

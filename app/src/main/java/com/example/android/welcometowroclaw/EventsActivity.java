@@ -15,14 +15,12 @@ public class EventsActivity extends AppCompatActivity {
 
         // Create a list of sights
         ArrayList<Attraction> attractions = new ArrayList<>();
-        attractions.add(new Attraction(R.string.sights_cathedral, R.string.sights_cathedral_description, R.drawable.sights_catherdal));
-        attractions.add(new Attraction(R.string.sights_fountain, R.string.sights_fountain_description, R.drawable.sights_fountain));
-        attractions.add(new Attraction(R.string.sights_japanese_garden, R.string.sights_japanese_garden_description, R.drawable.sights_japanese_garden));
-        attractions.add(new Attraction(R.string.sights_market_square, R.string.sights_market_square_description, R.drawable.sights_market_square));
-        attractions.add(new Attraction(R.string.sights_ostrow, R.string.sights_ostrow_description, R.drawable.sights_ostrow));
-        attractions.add(new Attraction(R.string.sights_sky_tower, R.string.sights_sky_tower_description, R.drawable.sights_sky_tower));
-        attractions.add(new Attraction(R.string.sights_town_hall, R.string.sights_town_hall_description, R.drawable.sights_town_hall));
-        attractions.add(new Attraction(R.string.sights_zoo, R.string.sights_zoo_description, R.drawable.sights_zoo));
+        attractions.add(new Attraction(R.string.events_bazaar, R.string.events_bazaar_description, R.drawable.events_bazaar));
+        attractions.add(new Attraction(R.string.events_brave_festival, R.string.events_brave_festival_description, R.drawable.events_brave_festival));
+        attractions.add(new Attraction(R.string.events_capitol, R.string.events_capitol_description, R.drawable.events_capitol));
+        attractions.add(new Attraction(R.string.events_jazztopad, R.string.events_jazztopad_description, R.drawable.events_jazztopad));
+        attractions.add(new Attraction(R.string.events_new_horizons, R.string.events_new_horizons_description, R.drawable.events_new_horizons));
+        attractions.add(new Attraction(R.string.events_wratislavia_cantans, R.string.events_wratislavia_cantans_description, R.drawable.events_wratislavia_cantans));
 
         // Create an {@link AttractionAdapter}, whose data source is a list of {@link Attraction}s.
         AttractionAdapter adapter = new AttractionAdapter(this, attractions);

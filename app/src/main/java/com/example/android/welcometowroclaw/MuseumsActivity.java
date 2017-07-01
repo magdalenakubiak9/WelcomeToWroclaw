@@ -15,14 +15,14 @@ public class MuseumsActivity extends AppCompatActivity {
 
         // Create a list of sights
         ArrayList<Attraction> attractions = new ArrayList<>();
-        attractions.add(new Attraction(R.string.sights_cathedral, R.string.sights_cathedral_description, R.drawable.sights_catherdal));
-        attractions.add(new Attraction(R.string.sights_fountain, R.string.sights_fountain_description, R.drawable.sights_fountain));
-        attractions.add(new Attraction(R.string.sights_japanese_garden, R.string.sights_japanese_garden_description, R.drawable.sights_japanese_garden));
-        attractions.add(new Attraction(R.string.sights_market_square, R.string.sights_market_square_description, R.drawable.sights_market_square));
-        attractions.add(new Attraction(R.string.sights_ostrow, R.string.sights_ostrow_description, R.drawable.sights_ostrow));
-        attractions.add(new Attraction(R.string.sights_sky_tower, R.string.sights_sky_tower_description, R.drawable.sights_sky_tower));
-        attractions.add(new Attraction(R.string.sights_town_hall, R.string.sights_town_hall_description, R.drawable.sights_town_hall));
-        attractions.add(new Attraction(R.string.sights_zoo, R.string.sights_zoo_description, R.drawable.sights_zoo));
+        attractions.add(new Attraction(R.string.museums_architecture, R.string.museums_architecture_description, R.drawable.museums_architecture));
+        attractions.add(new Attraction(R.string.museums_city_museum, R.string.museums_city_museum_description, R.drawable.museums_city_museum));
+        attractions.add(new Attraction(R.string.museums_humanitarium, R.string.museums_humanitarium_description, R.drawable.museums_humanitarium));
+        attractions.add(new Attraction(R.string.museums_hydropolis, R.string.museums_hydropolis_description, R.drawable.museums_hydropolis));
+        attractions.add(new Attraction(R.string.museums_national_museum, R.string.museums_national_museum_description, R.drawable.museums_national_museum));
+        attractions.add(new Attraction(R.string.museums_panorama, R.string.museums_panorama_description, R.drawable.museums_panorama));
+        attractions.add(new Attraction(R.string.museums_topacz, R.string.museums_topacz_description, R.drawable.museums_topacz));
+        attractions.add(new Attraction(R.string.museums_university, R.string.museums_university_description, R.drawable.museums_university));
 
         // Create an {@link AttractionAdapter}, whose data source is a list of {@link Attraction}s.
         AttractionAdapter adapter = new AttractionAdapter(this, attractions);
